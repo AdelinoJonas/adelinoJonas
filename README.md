@@ -3,7 +3,6 @@
 - 🔭 I’m currently working hard to finish my Software Development Course, I hope will be a Fullstack Web Developer.
 - 🌱 I’m currently learning SQL and React.js
 - 💬 Ask me about what you want,  my life is a opened book! 😄
-- 📫 How to reach me: ...
 - ⚡ Pronouns: Ele/Dele
 
 <div align="center">
