@@ -5,7 +5,7 @@
 - 💬 Ask me about what you want,  my life is a opened book! 😄
 - 📫 How to reach me: ...
 - ⚡ Pronouns: Ele/Dele
-
+<body background="#000">
 <div align="center">
   <a href="https://github.com/AdelinoJonas">
   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=adelinoJonas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,3 +21,4 @@
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
  </div>
+  </body>
