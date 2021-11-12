@@ -21,5 +21,4 @@
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+ </div>
