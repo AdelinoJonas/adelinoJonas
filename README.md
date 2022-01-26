@@ -1,6 +1,6 @@
 ## Hi there I'm Jonas Adelino Neto ✌
 
-- 🔭 I’m currently working hard to finish my Software Development Course, I hope will be a Fullstack Web Developer.
+- 🔭 I’m currently working hard to finish my Software Development Course, I hope will be a great Fullstack Web Developer.
 - 🌱 I’m currently learning SQL and React.js
 - 💬 Ask me about what you want,  my life is a opened book! 😄
 - ⚡ Pronouns: Ele/Dele
