@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/iam_jonasneto" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-blueviolet" target="_blank"></a> 
   <a href = "mailto:contatojonas.gastro91@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-adelino-neto-168830179" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-informational" target="_blank"></a> 
-  <a href="https://adelinojonas.github.io/myPersonalPage/" target="_blank"><img src="https://img.shields.io/badge/-MY_PERSONAL_PAGE-9cf" target="_blank"></a>
+  <a href="https://adelinojonas.github.io/myPersonalPage/" target="_blank"><img src="https://img.shields.io/badge/-MY_PERSONAL_PAGE-yellowgreen" target="_blank"></a>
     
   
   ![Snake animation](https://github.com/adelinoJonas/adelinoJonas/blob/output/github-contribution-grid-snake.svg)
