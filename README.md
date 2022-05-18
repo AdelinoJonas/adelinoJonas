@@ -1,7 +1,7 @@
 ## Hi there I'm Jonas Adelino Neto ✌
 
-- 🔭 I’m currently working hard to finish my Software Development Course, I hope will be a great Fullstack Web Developer.
-- 🌱 I’m currently learning SQL and React.js
+- 🔭 I’m alread finished web Software Development Course and trying to be a great Fullstack Web Developer.
+- 🌱 I’m currently improoving my knowledge practing and looking for a freelance job while can not get a fixed job.
 - 💬 Ask me about what you want,  my life is a opened book! 😄
 
 
