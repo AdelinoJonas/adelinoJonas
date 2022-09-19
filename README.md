@@ -1,8 +1,9 @@
 ## Hi there I'm Jonas Adelino Neto ✌
 
-- 🔭 I’m alread finished web Software Development Course and trying to be a great Fullstack Web Developer.
-- 🌱 I’m currently improoving my knowledge practing and looking for a freelance job while can not get a fixed job.
-- 💬 Ask me about what you want,  my life is a opened book! 😄
+- 🔭 I'm a Fullstack Web/Android Developer in love with new tecnologies.
+- 🌱 Currently i'm working at Framework Sistems as a FullStack Developer.
+- 💬 Ask me about what you want! visit my repositories, if possible comment and help me improve my code style. 
+It's always good to exchange experiences. 😄
 
 
     
@@ -15,6 +16,7 @@
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
 </div>
   
 ##
