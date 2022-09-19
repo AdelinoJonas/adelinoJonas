@@ -19,7 +19,7 @@ It's always good to exchange experiences. 😄
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Jonas-sql" height="30" width="40" fill="#FFF" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Jonas-sql" height="30" width="40" color="#FFF" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
   
 ##
