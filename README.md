@@ -12,11 +12,7 @@ Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, inclui
  - Sass
  - Teste com Jest
  - GIT
- Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros. Além disso,
- possuo experiência em metodologias ágeis, como Scrum e Kanban.
-# Contato #
- Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.
-
+ 
 ## SKILLS and TOOLS:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,6 +30,11 @@ Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, inclui
 </div>
   
 ##
+
+ Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros. Além disso,
+ possuo experiência em metodologias ágeis, como Scrum e Kanban.
+# Contato #
+ Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.
   
 <div align="left"> 
   <a href="https://www.instagram.com/iam_jonasneto" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-blueviolet" target="_blank"></a> 
