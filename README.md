@@ -1,17 +1,35 @@
-## Hi there I'm Jonas Adelino Neto ✌
+    ## Bem Vindo(a) ao meu GitHub!
+    <p> 
+        Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, incluindo a criação de APIs e integração com bancos de dados, bem como habilidades em ReactJs, styled-components e integrações com API externas.
+    </p>
+    <h2>Tecnologias</h2>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>NodeJs (express, npm, knex...)</li>
+      <li>PostgresSQL</li>
+      <li>React.js</li>
+      <li>Styled components</li>
+      <li>Sass</li>
+      <li>Teste com Jest</li>
+      <li>GIT</li>
+    </ul>
+    <p>
+        Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros. Além disso, possuo experiência em metodologias ágeis, como Scrum e Kanban.
+    </p>
+    <h2>Contato</h2>
+    <p>
+        Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.
+    </p>
 
-- 🔭 I'm a Fullstack Web/Android Developer in love with new tecnologies.
-- 🌱 Currently i'm working at Framework Sistems as a FullStack Developer.
-- 💬 Ask me about what you want! visit my repositories, if possible comment and help me improve my code style. 
-It's always good to exchange experiences. 😄
-
-
-    
 ## SKILLS and TOOLS:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jonas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Jonas-sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
