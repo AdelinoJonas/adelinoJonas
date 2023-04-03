@@ -1,5 +1,5 @@
-    ## Bem Vindo(a) ao meu GitHub!
-    Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, incluindo a criação de APIs e integração com bancos de dados, bem como habilidades em ReactJs, styled-components e integrações com API externas.
+## Bem Vindo(a) ao meu GitHub!
+Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, incluindo a criação de APIs e integração com bancos de dados, bem como habilidades em ReactJs, styled-components e integrações com API externas.
     #Tecnologias
       - HTML5
       - CSS3
@@ -12,10 +12,10 @@
       - Sass
       - Teste com Jest
       - GIT
-    Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros.<br>
-    Além disso, possuo experiência em metodologias ágeis, como Scrum e Kanban.
+ Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros. Além disso,
+ possuo experiência em metodologias ágeis, como Scrum e Kanban.
     #Contato
-    Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.
+ Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.
 
 ## SKILLS and TOOLS:
 <div style="display: inline_block" align="center"><br>
