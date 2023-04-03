@@ -1,28 +1,20 @@
     ## Bem Vindo(a) ao meu GitHub!
-    <p> 
-        Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, incluindo a criação de APIs e integração com bancos de dados, bem como habilidades em ReactJs, styled-components e integrações com API externas.
-    </p>
+    <p>Olá, eu sou um desenvolvedor com experiência em tecnologias de BackEnd, incluindo a criação de APIs e integração com bancos de dados, bem como habilidades em ReactJs, styled-components e integrações com API externas.</p>
     <h2>Tecnologias</h2>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>JavaScript</li>
-      <li>TypeScript</li>
-      <li>NodeJs (express, npm, knex...)</li>
-      <li>PostgresSQL</li>
-      <li>React.js</li>
-      <li>Styled components</li>
-      <li>Sass</li>
-      <li>Teste com Jest</li>
-      <li>GIT</li>
-    </ul>
-    <p>
-        Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros. Além disso, possuo experiência em metodologias ágeis, como Scrum e Kanban.
-    </p>
+      - HTML5
+      - CSS3
+      - JavaScript
+      - TypeScript
+      - NodeJs (express, npm, knex...)
+      - PostgresSQL
+      - React.js
+      - Styled components
+      - Sass
+      - Teste com Jest
+      - GIT
+    <p>Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visando implementá-lo em meus projetos futuros. Além disso, possuo experiência em metodologias ágeis, como Scrum e Kanban.</p>
     <h2>Contato</h2>
-    <p>
-        Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.
-    </p>
+    <p>Sinta-se à vontade para verificar meus projetos no meu GitHub e entrar em contato comigo se tiver alguma dúvida ou proposta de colaboração.</p>
 
 ## SKILLS and TOOLS:
 <div style="display: inline_block" align="center"><br>
