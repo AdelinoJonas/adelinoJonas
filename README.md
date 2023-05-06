@@ -12,7 +12,7 @@ Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visa
  - React.js
  - Styled components
  - Sass
- - Teste com Jest
+ - Teste com Cypress
  - GIT
  
 ## SKILLS and TOOLS:
