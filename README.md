@@ -42,13 +42,4 @@ Atualmente, estou estudando e aprimorando minhas habilidades em TypeScript, visa
   <a href="https://www.linkedin.com/in/jonas-adelino-neto-168830179" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-informational" target="_blank"></a> 
   <a href="https://adelinoportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-MY_PERSONAL_PAGE-green" target="_blank"></a>
     
-  
-[  ![Snake animation](https://github.com/adelinoJonas/adelinoJonas/blob/output/github-contribution-grid-snake.svg)
-  
-   
-  <p align="center"> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/adelinojonas/count.svg" />
-  </p>](url)
- 
-</div>
+
